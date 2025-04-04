@@ -18,7 +18,7 @@ Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de dat
 ### 📂 Proyectos destacados:
 
 - 🔍 [Análisis de datos Global Electronics](https://github.com/LucasLopezC/Analisis-Exploratorio)
-- 📊 [Dashboard de ventas con Power BI]()
+- 📊 [Dashboard de ventas con Power BI](https://github.com/LucasLopezC/Analisis-Exploratorio/blob/main/Presentaci%C3%B3n%20Final%20PB.pbix)
 
 ---
 
