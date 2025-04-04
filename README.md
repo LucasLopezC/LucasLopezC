@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Lucas]
 
-<!--
-**LucasLopezC/LucasLopezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la tecnología, los datos y el aprendizaje continuo.  
+Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías con las que trabajo:
+
+- Python 🐍
+- Pandas | NumPy | Matplotlib | Seaborn
+- SQL
+- Jupyter Notebooks
+- Power BI
+
+---
+
+### 📂 Proyectos destacados:
+
+- 🔍 [Análisis de datos educativos](https://github.com/LucasLopezC/Analisis-Exploratorio)
+- 📊 [Dashboard de ventas con Power BI]()
+
+---
+
+### 📫 ¿Dónde encontrarme?
+
+- [LinkedIn](www.linkedin.com/in/lucaslopezcoluchi)
+- Email: lucaslopezfx@gmail.com
+
+---
+
+### 🎯 Un poco más sobre mí:
+
+- 🚀 Buscando oportunidades para crecer en el mundo del análisis y la inteligencia de negocios.
+- 🎓 Siempre aprendiendo: actualmente explorando temas de machine learning y visualización.
+- 📚 Me gusta compartir lo que aprendo, ¡así que pronto más proyectos en este perfil!
+
