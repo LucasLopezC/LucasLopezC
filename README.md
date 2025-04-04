@@ -25,7 +25,7 @@ Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de dat
 ### 📫 ¿Dónde encontrarme?
 
 - [LinkedIn](www.linkedin.com/in/lucaslopezcoluchi)
-- Email: lucaslopezfx@gmail.com
+- [Email](lucaslopezfx@gmail.com)
 
 ---
 
