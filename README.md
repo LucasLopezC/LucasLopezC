@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lucas
+# 👋 ¡Hola! Soy [Lucas]
 
 💻 Apasionado por la tecnología, los datos y el aprendizaje continuo.  
 Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de datos.
@@ -17,7 +17,7 @@ Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de dat
 
 ### 📂 Proyectos destacados:
 
-- 🔍 [Análisis de datos educativos](https://github.com/LucasLopezC/Analisis-Exploratorio)
+- 🔍 [Análisis de datos Global Electronics](https://github.com/LucasLopezC/Analisis-Exploratorio)
 - 📊 [Dashboard de ventas con Power BI]()
 
 ---
