@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Lucas]
+# 👋 ¡Hola! Soy Lucas
 
 💻 Apasionado por la tecnología, los datos y el aprendizaje continuo.  
 Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de datos.
