@@ -1,37 +1,42 @@
-# 👋 ¡Hola! Soy Lucas
+# 👋 ¡Hola! Soy Lucas  
 
-💻 Apasionado por la tecnología, los datos y el aprendizaje continuo.  
-Actualmente estoy desarrollando proyectos con Python, Pandas, y análisis de datos.
+💻 **Analista de datos con enfoque en el análisis exploratorio, visualización y optimización de información para la toma de decisiones estratégicas.** Me apasiona convertir datos en insights accionables y mejorar procesos a través de la tecnología. Actualmente, desarrollo proyectos con **Python, SQL y Power BI** para potenciar la inteligencia de negocios.  
 
----
+---  
 
-### 🚀 Tecnologías con las que trabajo:
+### 🚀 Tecnologías y herramientas  
 
-- Python 🐍
-- Pandas | NumPy | Matplotlib | Seaborn
-- SQL
-- Jupyter Notebooks
-- Power BI
+- **Lenguajes:** Python 🐍 | SQL  
+- **Bibliotecas:** Pandas | NumPy | Matplotlib | Seaborn  
+- **Plataformas y herramientas:** Jupyter Notebooks | Power BI  
 
----
+---  
 
-### 📂 Proyectos destacados:
+### 📂 Proyectos destacados  
 
-- 🔍 [Análisis de datos Global Electronics](https://github.com/LucasLopezC/Analisis-Exploratorio)
-- 📊 [Dashboard de ventas con Power BI](https://github.com/LucasLopezC/Analisis-Exploratorio/blob/main/Presentaci%C3%B3n%20Final%20PB.pbix)
+- 🔍 **[Análisis de datos Global Electronics](https://github.com/LucasLopezC/Analisis-Exploratorio)** – Identificación de patrones de ventas y tendencias de consumo mediante técnicas avanzadas de análisis de datos, enfocadas en mejorar la rentabilidad y optimizar estrategias comerciales.  
 
----
+- 📊 **[Dashboard de ventas con Power BI](https://github.com/LucasLopezC/Analisis-Exploratorio/blob/main/Presentaci%C3%B3n%20Final%20PB.pbix)** – Creación de paneles interactivos con métricas clave de ventas y segmentación de clientes, permitiendo una toma de decisiones basada en datos.  
 
-### 📫 ¿Dónde encontrarme?
+- 🗄️ **[Desafío SQL](https://github.com/LucasLopezC/Desafio-SQL)** – Desarrollo de consultas avanzadas para optimizar la gestión de bases de datos y estructuración de información relevante para análisis estratégicos.  
 
-- LinkedIn: [Lucas López](www.linkedin.com/in/lucaslopezcoluchi)
-- Email: [lucaslopezfx@gmail.com](lucaslopezfx@gmail.com)
+- 💰 **[GlobalTechSalary](https://github.com/LucasLopezC/GlobalTechSalary)** – Evaluación de tendencias salariales en el sector tecnológico, explorando su impacto en diferentes regiones y roles dentro la industria.  
 
----
+---  
 
-### 🎯 Un poco más sobre mí:
+### 📫 ¿Dónde encontrarme?  
 
-- 🚀 Buscando oportunidades para crecer en el mundo del análisis y la inteligencia de negocios.
-- 🎓 Siempre aprendiendo: actualmente explorando temas de machine learning y visualización.
-- 📚 Me gusta compartir lo que aprendo, ¡así que pronto más proyectos en este perfil!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslopezfx@gmail.com)  
+📧 lucaslopezfx@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslopezcoluchi/)  
+📧 https://www.linkedin.com/in/lucaslopezcoluchi/  
+
+---  
+
+### 🎯 Un poco más sobre mí  
+
+- 🚀 Buscando oportunidades para impulsar la toma de decisiones en negocios a través del análisis de datos.  
+- 🎓 En constante aprendizaje: explorando machine learning, visualización avanzada y metodologías ágiles.  
+- 📚 Me gusta compartir conocimientos, por lo que seguiré publicando más proyectos y análisis en este perfil.  
 
